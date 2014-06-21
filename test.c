@@ -8,6 +8,9 @@
 #include<stdio.h>
 
 int main(){
-	printf("hello world");
+	for(int i=0;i!=9;i++){
+      printf("%d \n",i);
+	}
+
 	return 0;
 }
